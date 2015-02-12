@@ -17,7 +17,7 @@
 
 #test:
 #  <<: *default
-#  database: travis-test_test
+#  database: travis-ci_test
 test:
   adapter: postgresql
   database: travis_ci_test
